@@ -5,7 +5,7 @@
   "builds": [
     {
       "chipFamily": "ESP32-S2",
-      "parts": [{ "path": "ps4macedo900slESP32S2v2.bin", "offset": 0 }]
+      "parts": [{ "path": "ps4macedo900fESP32S2.bin", "offset": 0 }]
     }
   ]
 }
